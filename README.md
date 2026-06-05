@@ -45,4 +45,4 @@ The goal of this project is to identify customer segments, quantify churn driver
 - `sql/`: SQL scripts for data cleaning and feature engineering
 - `python/`: Jupyter notebooks for segmentation, modeling, and NLP
 - `tableau/`: Tableau workbook
-- `outputs/`: figures and model results
+- `outputs/`: figures
