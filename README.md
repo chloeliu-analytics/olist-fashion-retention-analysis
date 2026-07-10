@@ -41,7 +41,7 @@ The goal of this project is to identify customer segments, quantify churn driver
 
 ## Project Files
 
-- `Olist_Fashion_Retention_Case_Study_Chloe_Liu.pdf`: business-facing project report
+- `Olist_Fashion_Retention_Analysis.pdf`: business-facing project report
 - `sql/`: SQL scripts for data cleaning and feature engineering
 - `python/`: Jupyter notebooks for segmentation, modeling, and NLP
 - `tableau/`: Tableau workbook
